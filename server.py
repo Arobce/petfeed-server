@@ -26,7 +26,9 @@ def home():
 		return jsonify(response)
 	
 
+def delete():
 
+	
 #FEEDING ROUTE
 
 
